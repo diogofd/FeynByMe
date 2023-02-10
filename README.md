@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 
-* 🔭 I’m currently working on my website/blog: [FeynByMe](diogofandrade.org)
-* 👀 I’m interested in Category Theory, Quantitative Finance and Physics, but I have a soft spot for NN's
-* 🌱 I’m currently learning Python, SQL and C++
-* 💬 Ask me about most things Math
-* 📫 How to reach me: look up [here](https://diogofandrade.org/contact-2/)
-* 😄 Pronouns: he/him/his
+* 🔭 I’m currently pursuing my PhD at Instituto Superior Técnico
+* 👀 I’m interested in factorizable structures in general: factorization homology, TQFTs, and I am also very interested in higher-categorical structures
+* 🌱 I’d love to know way more C and C++
+* 💬 You can ask me most things about math
+* 📫 How to reach me: 
 * ⚡ Fun fact: I'm not blond
 
+
+
+
+
+Pronouns: he/him/his
